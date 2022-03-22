@@ -1,3 +1,3 @@
 # web-basedERP
-username - lucas202
+username - lucas202\n
 password - 202
